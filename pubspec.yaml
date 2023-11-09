@@ -20,6 +20,10 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+  fonts:
+     - family: Bloomberg
+       fonts:
+        - asset: fonts/Blomberg-8MKKZ.otf
 
   uses-material-design: true
 

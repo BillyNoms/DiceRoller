@@ -2,7 +2,7 @@
     <application
         android:label="test_dicee_flutter"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/iconnnn">
         <activity
             android:name=".MainActivity"
             android:exported="true"
